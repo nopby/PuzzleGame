@@ -6,7 +6,6 @@ using UnityEngine.UI;
 public class Timer : MonoBehaviour
 {
     bool active = false;
-    public float currentTime = 0;
     public Text timeText;
     public float seconds = 0;
     public float minutes = 0;
@@ -36,7 +35,8 @@ public class Timer : MonoBehaviour
     }
 
     public void ResetTimer() {
-        currentTime = 0;
+        seconds = 0;
+        minutes = 0;
     }
 
     
