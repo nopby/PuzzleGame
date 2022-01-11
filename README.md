@@ -1,3 +1,3 @@
 # Puzzle Game Android
-PROYEK INI UNTUK MEMENUHI SYARAT UAS MULTIMEDIA
+Proyek ini dibuat untuk memenuhi syarat UAS Multimedia.
 
